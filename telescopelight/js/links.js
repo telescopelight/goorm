@@ -9,10 +9,10 @@ function Showlinks(){
     document.write('<span><a href="/telescopelight/codenote/index.html">Code notes</a></span></span>');*/
 	
 	// 아이콘식, 배열에 대해 신경써야함
-	document.write('<span class="baselink"><a href="/telescopelight/photo/index.html"><image src="/telescopelight/icon/photo.png"width="50"></image><br>Photo</a></span>'); 
-	document.write('<span class="baselink"><a href="/telescopelight/record/index.html"><image src="/telescopelight/icon/record.png" width="50"></image><br>record</a></span>');
-	document.write('<span class="baselink"><a href="/telescopelight/art/index.html"><image src="/telescopelight/icon/art.png" width="50"></image><br>Art</a></span>');
-	document.write('<span class="baselink"><a href="/telescopelight/schedule/index.html"><image src="/telescopelight/icon/schedule.png" width="50"></image><br>Schedule</a></span>');
-	document.write('<span class="baselink"><a href="/telescopelight/codenote/index.html"><image src="/telescopelight/icon/note.png" width="50"></image><br>Codenote</a></span>');
+	document.write('<span class="baselink"><a href="/goorm/telescopelight/photo/index.html"><image src="/goorm/telescopelight/icon/photo.png"width="50"></image><br>Photo</a></span>'); 
+	document.write('<span class="baselink"><a href="/goorm/telescopelight/record/index.html"><image src="/goorm/telescopelight/icon/record.png" width="50"></image><br>record</a></span>');
+	document.write('<span class="baselink"><a href="/goorm/telescopelight/art/index.html"><image src="/goorm/telescopelight/icon/art.png" width="50"></image><br>Art</a></span>');
+	document.write('<span class="baselink"><a href="/goorm/telescopelight/schedule/index.html"><image src="/goorm/telescopelight/icon/schedule.png" width="50"></image><br>Schedule</a></span>');
+	document.write('<span class="baselink"><a href="/goorm/telescopelight/codenote/index.html"><image src="/goorm/telescopelight/icon/note.png" width="50"></image><br>Codenote</a></span>');
 }
  
